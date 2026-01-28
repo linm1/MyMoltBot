@@ -1,0 +1,4 @@
+{
+  "name": "MyMoltBot Development Container",
+  "postAttachCommand": "clawdbot gateway"
+}
