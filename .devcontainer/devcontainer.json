@@ -1,4 +1,4 @@
 {
   "name": "MyMoltBot Development Container",
-  "postAttachCommand": "nohup clawdbot gateway > /dev/null 2>&1 &"
+  "postCreateCommand": "clawdbot gateway"
 }
