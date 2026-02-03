@@ -1,4 +1,0 @@
-{
-  "name": "MyMoltBot Development Container",
-  "postCreateCommand": "clawdbot gateway"
-}
